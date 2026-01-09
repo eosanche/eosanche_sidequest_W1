@@ -20,6 +20,6 @@ Explain what the user will see, how they can interact, and what inspired the des
 
 Example:
 
-> This project shows a red background to users
+> This project shows a blue background to users
 
 ---
