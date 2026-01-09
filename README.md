@@ -23,3 +23,17 @@ Example:
 > This project shows a blue background to users
 
 ---
+
+## Interaction Instructions
+
+Describe how to use or play your project.
+
+- How does the user start?
+- What controls or keys do they use?
+- Any important visual or audio feedback to watch for?
+
+Example:
+
+> User sees the background colour of the canvas
+
+---
